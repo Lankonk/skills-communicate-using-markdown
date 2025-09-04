@@ -4,4 +4,6 @@
 
 ###### This is an `<h6>` header, which is the smallest
 
-Added headers with varying file sizes to this markdown file.
+Added headers with varying sizes and an image to this markdown file.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
