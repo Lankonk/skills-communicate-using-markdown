@@ -1,0 +1,19 @@
+# This is an `<h1>` header, which is the largest
+
+## This is an `<h2>` header
+
+###### This is an `<h6>` header, which is the smallest
+
+Added headers with varying sizes and an image to this markdown file.
+
+
+``` C#
+Console.WriteLine("Hello World!");
+```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
