@@ -6,4 +6,10 @@
 
 Added headers with varying sizes and an image to this markdown file.
 
+``` C#
+Console.WriteLine("Hello World!");
+```
+
+
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
